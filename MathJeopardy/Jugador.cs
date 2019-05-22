@@ -1,7 +1,7 @@
 ﻿//Librerias.
 using System;
 
-namespace Proyecto1_MathJeopardy_1036216
+namespace MathJeopardy
 {
     public class Jugador
     {

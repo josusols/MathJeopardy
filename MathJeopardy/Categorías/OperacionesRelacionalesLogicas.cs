@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Proyecto1_MathJeopardy_1036216.Categorías
+namespace MathJeopardy.Categorías
 {
     static class OperacionesRelacionalesLogicas
     {

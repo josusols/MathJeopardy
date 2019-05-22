@@ -1,9 +1,9 @@
 ﻿//Librerias.
 using System;
 using System.Timers;
-using Proyecto1_MathJeopardy_1036216.Categorías;
+using MathJeopardy.Categorías;
 
-namespace Proyecto1_MathJeopardy_1036216
+namespace MathJeopardy
 {
     class Program
     {

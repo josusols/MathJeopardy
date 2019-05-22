@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Proyecto1_MathJeopardy_1036216.Categorías
+namespace MathJeopardy.Categorías
 {
     public static class CorreccionExpresionesMatematicas
     {
